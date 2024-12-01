@@ -1,2 +1,2 @@
-# Y
+# 𝕐
 a twitter/X like microblogging social platform
